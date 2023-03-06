@@ -1,2 +1,4 @@
 # firstRepo
-first repository for html css course
+first repository for html css
+
+Ndryshimi im
